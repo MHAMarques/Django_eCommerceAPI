@@ -1,4 +1,4 @@
-# O desenvolvimento do Kenzie Commerce
+# Kenzie Commerce G19 API
 
 Uma API de comércio eletrônico é um excelente exercício de algo muito comum na web e muito útil para gerar uma experiência em uma demanda do mercado de trabalho.
 
