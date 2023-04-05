@@ -1,6 +1,6 @@
 # Kenzie Commerce G19 API
 
-Uma API de comércio eletrônico é um excelente exercício de algo muito comum na web e muito útil para gerar uma experiência em uma demanda do mercado de trabalho.
+Uma API de comércio eletrônico desenvolvida em Python Django com PostgreSQL. Um excelente exercício de algo muito comum na web e muito útil para gerar uma experiência em uma demanda do mercado de trabalho.
 
 Todo o trabalho foi realizado em etapas bem definidas em que todos os integrantes puderam vivenciar o desenvolvimento, os testes, a integração com o git e o deploy via railway.
 
