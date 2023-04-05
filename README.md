@@ -24,7 +24,7 @@ As primeiras etapas do projeto foram a criação do repositório git e a defini�
 
 # Integrantes do projeto
 
-Juan Sgarbi
-Lucas Schmidt
-Marcelo Henrique
-Francisco Trancoso
+Juan Sgarbi<br />
+Lucas Schmidt<br />
+Marcelo Henrique<br />
+Francisco Trancoso<br />
